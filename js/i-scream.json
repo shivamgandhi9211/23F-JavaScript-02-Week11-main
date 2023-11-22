@@ -1,0 +1,63 @@
+{
+    "companyName": "I-Scream Company Inc.",
+    "headOffice": "North Pole",
+    "established": 2023,
+    "active": true,
+    "topFlavors": [
+        {
+            "name": "Chocolate Mint",
+            "calories": 300,
+            "type": "ice-cream",
+            "ingredients": [
+                "Chocolate Syrup",
+                "Peppermint Sprinkle",
+                "Vanilla Base"
+            ],
+            "image": "images/chocolate-mint.svg"
+        },
+        {
+            "name": "Peach Mango",
+            "calories": 350,
+            "type": "milkshake-type ice-cream",
+            "ingredients": [
+                "Peach Syrup",
+                "Mango Chunks",
+                "Vanilla Base"
+            ],
+            "image": "images/peach-mango.svg"
+        },
+        {
+            "name": "Strawberry Sprinkle",
+            "calories": 400,
+            "type": "ice-cream",
+            "ingredients": [
+                "Strawberry Syrup",
+                "Some Sprinkles",
+                "Vanilla Base"
+            ],
+            "image": "images/strawberry-sprinkle.svg"
+        },
+        {
+            "name": "Vanilla Dream",
+            "calories": 320,
+            "type": "ice-cream",
+            "ingredients": [
+                "Vanilla Extract",
+                "Cookie Crumbs",
+                "Whipped Cream"
+            ],
+            "image": "images/ice-cream-xtra1.svg"
+        },
+        {
+            "name": "Caramel Crunch",
+            "calories": 380,
+            "type": "caramel-flavored ice-cream",
+            "ingredients": [
+                "Caramel Syrup",
+                "Toffee Bits",
+                "Chocolate Drizzle"
+            ],
+            "image": "images/ice-cream-xtra2.svg"
+        }
+    ]
+}
